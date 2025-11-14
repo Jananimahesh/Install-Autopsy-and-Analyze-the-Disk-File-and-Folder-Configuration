@@ -7,7 +7,7 @@ To install **Autopsy** and use it to analyze the disk’s file and folder config
 - **Operating System**: Windows 10/11, macOS, or Linux
 - **Tools**:  
   - [Autopsy Digital Forensics Platform](https://www.autopsy.com/)  
-  - Optional: Sleuth Kit CLI tools for deeper analysis
+  - Optional: Sleuth Kit CLI tools for deeper analysis 
 - **Test Data**: Disk image file (`.dd`, `.img`, `.E01`)
 
 ## ARCHITECTURE DIAGRAM
